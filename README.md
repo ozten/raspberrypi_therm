@@ -33,3 +33,11 @@ to specify port which webservice is on
 * Graph temperature
 * Add configuration stored in localStorage for endpoint
 * Show no thermometer when none is plugged in
+
+## Example w1 data
+
+    9d 01 4b 46 7f ff 03 10 57 : crc=57 YES
+    9d 01 4b 46 7f ff 03 10 57 t=25812
+
+    ff ff ff ff ff ff ff ff ff : crc=c9 NO
+    46 01 4b 46 7f ff 0a 10 85 t=-62

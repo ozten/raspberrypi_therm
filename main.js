@@ -31,7 +31,7 @@ var hist = [];
 var MAX_HIST = 60; // 1 minute in seconds
 var POLLING_FREQ = 1000; // 1 Second in milliseconds
 
-var endpoint = 'http://10.0.1.66:8000/';
+var endpoint = 'http://10.0.1.7:8000/';
 
 //'http://localhost:9000/'
 
